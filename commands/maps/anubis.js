@@ -1,6 +1,4 @@
 
-// ANUBIS P1
-
 const { ActionRowBuilder, ButtonBuilder, ButtonStyle, SlashCommandBuilder, PermissionFlagsBits, ActionRow} = require('discord.js');
 
 module.exports = {

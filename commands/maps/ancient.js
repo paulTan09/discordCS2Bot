@@ -1,4 +1,3 @@
-//ANCIENT P1
 
 const { ActionRowBuilder, ButtonBuilder, ButtonStyle, SlashCommandBuilder, PermissionFlagsBits, ActionRow} = require('discord.js');
 
@@ -25,16 +24,16 @@ module.exports = {
     .setURL("https://youtu.be/aay06l1vRPM")
     .setStyle(ButtonStyle.Link);
 
-    //UNFINISHED
+    
 
     const smoke4 = new ButtonBuilder()
-    .setLabel("T payphones - Connector")
-    .setURL("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+    .setLabel("A Main - A donut")
+    .setURL("https://youtu.be/tVx-_Ngyc1E")
     .setStyle(ButtonStyle.Link);
 
     const smoke5 = new ButtonBuilder()
-    .setLabel("T spawn - Mid smoke")
-    .setURL("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+    .setLabel("T elbow - mid donut")
+    .setURL("https://youtu.be/U95foWLQZj0")
     .setStyle(ButtonStyle.Link);
 
     
