@@ -3,7 +3,7 @@ const { ActionRowBuilder, ButtonBuilder, ButtonStyle, SlashCommandBuilder, Permi
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName("inferno2")
-		.setDescription("Inferno smokes part 2"),
+		.setDescription("Inferno smokes 2/2"),
 
 
  async execute(interaction) {

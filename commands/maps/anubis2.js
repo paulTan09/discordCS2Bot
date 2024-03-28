@@ -4,7 +4,7 @@ const { ActionRowBuilder, ButtonBuilder, ButtonStyle, SlashCommandBuilder, Permi
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName("anubis2")
-		.setDescription("Anubis smokes part 2"),
+		.setDescription("Anubis smokes 2/2"),
 
 
  async execute(interaction) {

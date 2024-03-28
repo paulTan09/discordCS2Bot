@@ -3,8 +3,8 @@ const { ActionRowBuilder, ButtonBuilder, ButtonStyle, SlashCommandBuilder, Permi
 
 module.exports = {
 	data: new SlashCommandBuilder()
-		.setName("anubis1")
-		.setDescription("Anubis smokes part 1"),
+		.setName("anubis")
+		.setDescription("Anubis smokes 1/2"),
 
 
 
